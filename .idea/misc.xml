@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/UMI-API/news/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/filier/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/module/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/student/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/registry/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/semestre/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/formation/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/department/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/researcher/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/publication/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/planing-exam/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/group-section/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/labo-team-axes/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/ecole-doctorale/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/recherche-event/pom.xml" />
+        <option value="$PROJECT_DIR$/UMI-API/department-event/pom.xml" />
+      </list>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/UMI-API/department-event/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/department/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/ecole-doctorale/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/filier/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/formation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/group-section/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/labo-team-axes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/module/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/news/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/planing-exam/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/publication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/recherche-event/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/researcher/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/semestre/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/UMI-API/student/src/main/java" charset="UTF-8" />
+  </component>
+</project>
